@@ -9,7 +9,7 @@ from flask import Flask
 from flask import render_template
 
 # global variables
-dbname='/home/pi/rpi_temp_logger/colchester.db'
+dbname='/home/pi/temperature_pi/colchester.db'
 app = Flask(__name__)
 
 # return a list of records from the database

@@ -10,7 +10,7 @@ import datetime
 
 # global variables
 speriod=(15*60)-1
-dbname='/home/pi/rpi_temp_logger/colchester.db'
+dbname='/home/pi/temperature_pi/colchester.db'
 
 # Timestamp must include local timezone
 def current_time():

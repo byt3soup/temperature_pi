@@ -1,2 +1,3 @@
 # Defaults
 *.pyc
+nohup.out
