@@ -12,6 +12,12 @@ There are several scripts that can be used. You'll need to trigger regular tempe
 
 `webgui.py` - Drives a webpage to visualise the results
 
+### Example
+
+Example screenshot
+
+![](https://github.com/byt3soup/temperature_pi/blob/master/TempPageExample.jpg)
+
 ## Original info
 
 This was all created originally from this website (which seems to be offline currently):
